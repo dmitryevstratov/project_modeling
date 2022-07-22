@@ -1,0 +1,6 @@
+size real:
+   l=9,02
+   h=3,4
+   b=9,91
+
+scale real: 8,35
